@@ -9,7 +9,8 @@ Chaos信号生成をLFOとして実装してみたもの．
 ためにPICマイコン＋フルカラーLEDも併せて実装されている．
 
 
-[色で電圧を表現する](../vmeter)
+[色で電圧を表現する](ChuckTimber/vmeter)
+[ChuckTimber/vmeter](https://github.com/ChuckTimber/vmeter)
 
 
 !['schematics'](chaos.png)
